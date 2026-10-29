@@ -7,7 +7,7 @@
 
 #define TDS_WARNING_PPM     50      /* 수질 경고 기준 (ppm) */
 #define COLD_TARGET_C       5       /* 냉수 목표 온도 */
-#define HOT_TARGET_C        85      /* 온수 목표 온도 */
+#define HOT_TARGET_C        90      /* 온수 목표 온도 */
 #define STERILIZE_HOURS     72      /* 자동 살균 주기 (시간) */
 
 #define FILTER_SEDIMENT_L   3000    /* 세디먼트 필터 수명 (L) */
